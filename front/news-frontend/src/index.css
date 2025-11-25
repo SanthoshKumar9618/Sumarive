@@ -1,0 +1,17 @@
+/* RESET + BASE */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background: #ffffff;
+  color: #213547;
+}
+
+/* Keep root simple */
+:root {
+  color-scheme: light;
+}

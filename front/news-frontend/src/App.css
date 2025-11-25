@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-content {
+  margin-top: 90px;   /* pushes page below navbar */
+}
